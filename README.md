@@ -5,5 +5,5 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvir-potpose-893411231) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HPotpose) 
 
-## Hacktoberfest 
+## Hacktoberfest: 
 [![An image of @akagamiharsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akagamiharsh)](https://holopin.io/@akagamiharsh)
