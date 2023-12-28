@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’am an IT student at JEC Jabalpur<br>👯 I’m looking to contribute in OpenSource Projects.<br>🤝 I’m looking for DevOps internship.<br>🌱 I’m currently learning CyberSecurity, DevOps, Cloud Computing, frontend dev <br>📫 How to reach me: [hpotpose62@gmail.com](mailto:hpotpose62@gmail.com)
+🔭 I’am an engineering student<br>👯 I’m looking to contribute in OpenSource Projects.<br>🤝 I’m looking for DevOps internship.<br>🌱 I’m currently learning CyberSecurity, DevOps, Cloud Computing, frontend dev <br>📫 How to reach me: [hpotpose62@gmail.com](mailto:hpotpose62@gmail.com)
 
 
 ## 🌐 Socials:
