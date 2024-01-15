@@ -9,5 +9,3 @@
 ### Frontend (currently learning)
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb)](https://skillicons.dev)<br>
 
-### Hacktoberfest: 
-[![An image of @akagamiharsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akagamiharsh)](https://holopin.io/@akagamiharsh)
