@@ -5,7 +5,7 @@
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=golang,c,cpp,python)](https://skillicons.dev)<br>
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,git,github,bash)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash)](https://skillicons.dev)<br>
 ### Frontend (currently learning)
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,wasm)](https://skillicons.dev)<br>
 
