@@ -1,7 +1,7 @@
 ## 💫 About Me:
 🔭 I’am an engineering student<br>👯 I’m looking to contribute in OpenSource Projects.<br>🌱 I’m currently learning CyberSecurity, DevOps, Cloud Computing, frontend dev <br>📫 How to reach me: hpotpose62@gmail.com
 
-<img src="https://gist.githubusercontent.com/wuhan005/b3fc9288b77106605d3b6fde855d1735/raw/f7cb231595adff68a2808c82132751b535632538/%25E2%259D%25A4%25EF%25B8%258FGopher.GIF" alt="Gopher GIF" align="right" width="180">
+<img src="https://gist.githubusercontent.com/wuhan005/b3fc9288b77106605d3b6fde855d1735/raw/f7cb231595adff68a2808c82132751b535632538/%25E2%259D%25A4%25EF%25B8%258FGopher.GIF" alt="Gopher GIF" align="right" width="200">
 
 ## My Skills
 ### Programming Languages
