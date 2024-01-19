@@ -9,8 +9,8 @@
 
 ## My Skills
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=golang,c,cpp,python)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=golang,c,cpp,python)](https://skillicons.dev)
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash)](https://skillicons.dev)
 ### Web (currently learning)
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,wasm)](https://skillicons.dev) <img src="https://github.com/gin-gonic/logo/blob/master/color.png" alt="Gin-Gonic Logo" width="42"><br>
