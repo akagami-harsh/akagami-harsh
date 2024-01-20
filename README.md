@@ -11,6 +11,6 @@
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=golang,c,cpp,python)](https://skillicons.dev)
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash)](https://skillicons.dev)<img src="https://github.com/jaegertracing/artwork/blob/master/PNG/Jaeger_Logo_Final_PANTONE%20REVERSE.png" alt="jaeger" width="50">
 ### Web (currently learning)
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,wasm)](https://skillicons.dev) <img src="https://github.com/gin-gonic/logo/blob/master/color.png" alt="Gin-Gonic Logo" width="42"><br>
